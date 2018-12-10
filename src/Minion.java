@@ -16,17 +16,17 @@ public class Minion {
 		return name;
 	}
 	String getMaster() {
-		return(master);
+		return master;
 	}
 	int getEyes() {
-		return (eyes);
+		return eyes;
 		
 	}
 	String getColor() {
-		return(color);
+		return color;
 	}
 	String master() {
-		return (master);
+		return master;
 	}
 	void setMaster(String master){
 		this.master = master;
